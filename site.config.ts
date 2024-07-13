@@ -9,17 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: 'J.S. KringKoter | 猫屿咖啡屋的日常',
+  domain: 'jskring.top',
+  author: 'J.S. KringKoter',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
-  linkedin: 'Chao Di Tang',
+  twitter: 'KringKoter',
+  github: 'JS_KringKoter',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
